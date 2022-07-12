@@ -168,3 +168,17 @@ body {
 .button {
     background-color: red;
 }
+
+.footer {
+    margin-top: 150px;
+    text-align: center;
+    color: White;
+    background-color: black;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+footer i {
+    color: tomato;
+    font-family: fantasy;
+}
