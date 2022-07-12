@@ -120,3 +120,51 @@ body {
     margin-right: 150px;
     width: 100%;
 }
+
+.color {
+    color: orange
+}
+
+.first {
+    width: 50%;
+    padding: 2%;
+}
+
+.firstone {
+    display: flex;
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+    margin-bottom: 20px;
+}
+
+.first img {
+    width: 50%;
+}
+
+.linkbtn {
+    text-decoration: none;
+    background-color: orange;
+    padding: 10px 30px;
+    border-radius: 10px;
+    background-image: linear-gradient(orange, red);
+}
+
+.update {
+    text-align: center;
+    margin-top: 150px;
+}
+
+.email {
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-left: 40px;
+    padding-right: 40px;
+    background-color: aqua;
+    width: 20%;
+    margin-left: 40%;
+    margin-top: 70px;
+}
+
+.button {
+    background-color: red;
+}
