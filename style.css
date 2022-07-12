@@ -84,3 +84,39 @@ body {
 #planC {
     background-color: bisque;
 }
+
+.livedepends {
+    display: flex;
+    margin-bottom: 100px;
+}
+
+.lives {
+    text-align: left;
+    width: 50%;
+    margin-left: 100px;
+
+}
+
+.livedepends img {
+    width: 50%;
+    margin-left: 150px;
+}
+
+.Survive {
+    display: flex;
+    margin-bottom: 150px;
+}
+
+.Survive img {
+    width: 60%;
+    margin-left: 150px;
+    margin-right: 0px;
+    border-radius: 20px;
+}
+
+.needus {
+    text-align: left;
+    margin-left: 0px;
+    margin-right: 150px;
+    width: 100%;
+}
