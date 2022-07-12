@@ -52,3 +52,35 @@ body {
     margin-bottom: 40px;
 
 }
+
+.dntplan {
+    text-align: center;
+    margin-bottom: 80px;
+}
+
+.Fullplan {
+    display: flex;
+    margin-bottom: 100px;
+}
+
+.plan {
+    width: 28%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 40px gray;
+
+}
+
+#planA {
+    background-color: aqua;
+}
+
+#planB {
+    background-color: aquamarine;
+}
+
+#planC {
+    background-color: bisque;
+}
